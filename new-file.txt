@@ -2,3 +2,6 @@ testing
 building 
 deploy
 done
+
+
+ok
